@@ -1,15 +1,18 @@
 {
   "files": {
     "main.css": "/Jogo-da-Velha/static/css/main.5f0af830.css",
-    "main.js": "/Jogo-da-Velha/static/js/main.2eb5466e.js",
+    "main.js": "/Jogo-da-Velha/static/js/main.0775fa43.js",
     "static/js/453.39134de6.chunk.js": "/Jogo-da-Velha/static/js/453.39134de6.chunk.js",
+    "static/media/velha.png": "/Jogo-da-Velha/static/media/velha.a449b68185ca195f30f3.png",
+    "static/media/circulo.png": "/Jogo-da-Velha/static/media/circulo.64546a4ab4b14d417821.png",
+    "static/media/x.png": "/Jogo-da-Velha/static/media/x.67d002977ae7da6d2bd4.png",
     "index.html": "/Jogo-da-Velha/index.html",
     "main.5f0af830.css.map": "/Jogo-da-Velha/static/css/main.5f0af830.css.map",
-    "main.2eb5466e.js.map": "/Jogo-da-Velha/static/js/main.2eb5466e.js.map",
+    "main.0775fa43.js.map": "/Jogo-da-Velha/static/js/main.0775fa43.js.map",
     "453.39134de6.chunk.js.map": "/Jogo-da-Velha/static/js/453.39134de6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5f0af830.css",
-    "static/js/main.2eb5466e.js"
+    "static/js/main.0775fa43.js"
   ]
 }
