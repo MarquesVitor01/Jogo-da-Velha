@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MarquesVitor01/Jogo-da-Velha.git/static/css/main.5f0af830.css",
+    "main.js": "/MarquesVitor01/Jogo-da-Velha.git/static/js/main.037aa0f0.js",
+    "static/js/453.39134de6.chunk.js": "/MarquesVitor01/Jogo-da-Velha.git/static/js/453.39134de6.chunk.js",
+    "index.html": "/MarquesVitor01/Jogo-da-Velha.git/index.html",
+    "main.5f0af830.css.map": "/MarquesVitor01/Jogo-da-Velha.git/static/css/main.5f0af830.css.map",
+    "main.037aa0f0.js.map": "/MarquesVitor01/Jogo-da-Velha.git/static/js/main.037aa0f0.js.map",
+    "453.39134de6.chunk.js.map": "/MarquesVitor01/Jogo-da-Velha.git/static/js/453.39134de6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f0af830.css",
+    "static/js/main.037aa0f0.js"
+  ]
+}
